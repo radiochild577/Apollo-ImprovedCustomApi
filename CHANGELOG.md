@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.7.0] - 2026-05-05
+
+- New **Tag Filters** feature to blur NSFW and/or Spoiler posts (including titles) in feeds (thanks @icpryde for implementing this!)
+    - Configure in **Settings > Tag Filters**
+    - Tap a blurred post for a "View hidden post?" confirmation alert
+    - Per-subreddit overrides let you toggle NSFW or Spoiler filtering for individual subreddits
+- Bulk translation fixes (thanks @icpryde!):
+    - Fix post body briefly flashing the original language after voting, and not reverting when toggling translation off while scrolled past the body
+    - Fix comment cells being skipped when toggling translation, and translations appearing half-applied after returning to Apollo from another app
+    - Fix plain multi-paragraph post bodies being skipped
+
 ## [v2.6.1] - 2026-05-01
 
 - Fix tab bar disappearing after sharing content
@@ -318,6 +329,7 @@ There are currently a few limitations:
 ## [v1.0.0] - 2023-10-13
 - Initial release
 
+[v2.7.0]: https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/compare/v2.6.1...v2.7.0
 [v2.6.1]: https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/compare/v2.6.0...v2.6.1
 [v2.6.0]: https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/compare/v2.5.0...v2.6.0
 [v2.5.0]: https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/compare/v2.4.0...v2.5.0

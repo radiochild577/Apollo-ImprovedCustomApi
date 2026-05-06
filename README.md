@@ -39,6 +39,7 @@ iOS tweak for [Apollo for Reddit app](https://apolloapp.io/) that lets you conti
 - **Editable Saved Categories**: Add, rename, and delete saved post categories (Settings > Saved Categories)
 - **Bulk in-place translation**: Translate posts and comments in-place with configurable provider and target language (Settings > Translation)
 - **Tap timestamp for creation date**: Tap a comment or post's relative-time label to see the absolute creation date and time
+- **Tag Filters**: Blur NSFW and/or Spoiler posts (including titles) in feeds, with per-subreddit overrides (Settings > Tag Filters)
 
 ## Known Issues
 
