@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [v2.7.1] - 2026-05-06
 
-- Bulk translation: fix post titles getting automatically translated when Auto Translate is off
+- Bulk translation: fix post titles getting automatically translated when Auto Translate is off (thanks @icpryde!)
 
 ## [v2.7.0] - 2026-05-05
 
