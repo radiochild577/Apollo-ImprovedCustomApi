@@ -52,6 +52,7 @@ static NSArray<NSDictionary<NSString *, NSString *> *> *ApolloTranslationLanguag
             @{@"code": @"cs", @"name": @"Czech"},
             @{@"code": @"ro", @"name": @"Romanian"},
             @{@"code": @"hu", @"name": @"Hungarian"},
+            @{@"code": @"bs", @"name": @"Bosnian"},
         ];
     });
     return options;
