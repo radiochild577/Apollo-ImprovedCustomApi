@@ -2,10 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v2.7.2] - 2026-05-07
+
+- Bulk translation: add Bosnian language support (thanks @hllvc!)
+
 ## [v2.7.1] - 2026-05-06
 
 - Bulk translation: fix post titles getting automatically translated when Auto Translate is off (thanks @icpryde!)
-- Fix crash when searching for a URL (e.g. `https://reddit.com/r/.../comments/...`) in the Search tab. URL searches now return posts that link to that URL.
+- Fix crash when searching for a URL in the Search tab. URL searches now return posts that link to that URL.
 
 ## [v2.7.0] - 2026-05-05
 
@@ -334,6 +338,7 @@ There are currently a few limitations:
 ## [v1.0.0] - 2023-10-13
 - Initial release
 
+[v2.7.2]: https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/compare/v2.7.1...v2.7.2
 [v2.7.1]: https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/compare/v2.7.0...v2.7.1
 [v2.7.0]: https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/compare/v2.6.1...v2.7.0
 [v2.6.1]: https://github.com/JeffreyCA/Apollo-ImprovedCustomApi/compare/v2.6.0...v2.6.1
