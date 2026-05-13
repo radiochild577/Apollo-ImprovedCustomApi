@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file.
 
 - New **Hide Next Parent Button** toggle in **Settings > Custom API > General** to hide the floating button in the bottom-right of comments views (thanks @icpryde!)
 - Liquid Glass: **Hide Bars on Scroll** now uses native iOS 26 tab bar minimize behaviour so it collapses into the small pill on scroll-down and re-expands on scroll-up (thanks @icpryde!)
-- Fix Reddit-hosted image uploads in text posts failing with a `BAD_URL` error when using Reddit as the image upload host
+- Fix Reddit-hosted image uploads in text posts failing with a `BAD_URL` error
 - Improve link-button hiding with inline media previews
 
 ## [v2.9.0] - 2026-05-11
